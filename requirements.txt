@@ -1,0 +1,10 @@
+langchain
+torch
+transformers
+sentence_transformers
+faiss-cpu
+streamlit
+fastapi
+uvicorn
+python-multipart
+ctransformers
